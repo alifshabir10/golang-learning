@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func perulangan(){
 	// cara 1
 	for i:=0; i<5; i++{
 		fmt.Println("angka", i)

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func news() {
 	// menggunakan var, tanpa tipe data, menggunakan perantara "="
 	var firstName string = "john"
 

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func konstanta(){
 	// contoh pertama
 	const firstName string = "john"
 	fmt.Print("hallo", firstName, "!\n")

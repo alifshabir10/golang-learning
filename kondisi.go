@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func kondisi(){
 	var point = 10
 
 	if point == 10{
